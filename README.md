@@ -1,6 +1,9 @@
 # Devil Client Beta
 MC pvp client for 1.8.9
 
+# Patch Notes
+
+
 Hi welcome to my client page, yes i am a single person devloping it.
 Till now i have added custom main menu and made my own 1.7 animation(for bow and sword).
 And the eating is a bit realistic(the position is in the center).
