@@ -11,3 +11,8 @@ And the eating is a bit realistic(the position is in the center).
 
 1. Download the zip.
 2. Put the DevilV1 folder in .minecraft/versions folder(if you dont know where it is, in windows it is in %appdata%)
+
+
+# INFO
+if you find any bugs or some un natural stuff in it please reoprt it to me.
+My discord is Masked Alt?#7803
