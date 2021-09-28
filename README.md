@@ -6,3 +6,8 @@ Till now i have added custom main menu and made my own 1.7 animation(for bow and
 And the eating is a bit realistic(the position is in the center).
 
 ![Screenshot from 2021-09-28 20-27-53](https://user-images.githubusercontent.com/74668157/135113385-65366de3-df95-4e75-8bfb-c03860d3f84c.png)
+
+# How to Install the client
+
+1. Download the zip.
+2. Put the DevilV1 folder in .minecraft/versions folder(if you dont know where it is, in windows it is in %appdata%)
